@@ -6,7 +6,7 @@ A tiny, fast, single-file QR code generator written in Python.
 This repository is the **reference implementation** used in the PLEX article:
 
 👉 **Building a custom QR generator tool with Python in less than 5 minutes**  
-https://plexdata.online/post/building-custom-qr-generator-tool-python  
+https://plexdata.online/?utm_source=github&utm_medium=repo&utm_campaign=python-qr-generator-tool#tool-qr  
 
 The article walks you through **building the tool from scratch**, explaining every step of the implementation.  
 If you want a ready-to-use module instead of writing the whole thing yourself, this repo contains the exact version demonstrated.
@@ -17,7 +17,7 @@ If you want a ready-to-use module instead of writing the whole thing yourself, t
 
 Use the live PLEX QR Generator tool here:
 
-👉 **https://plexdata.online/tools/qr-generator**
+👉 **https://plexdata.online/?utm_source=github&utm_medium=repo&utm_campaign=python-qr-generator-tool#tool-qr**
 
 No install, no Python — just paste your URL or text and download a PNG.
 
@@ -127,7 +127,7 @@ Pipeline:
 
 If you prefer a simple UI instead of the Python CLI:
 
-👉 **[https://plexdata.online/tools/qr-generator](https://plexdata.online/tools/qr-generator)**
+👉 **[Open the online QR generator](https://plexdata.online/?utm_source=github&utm_medium=repo&utm_campaign=python-qr-generator-tool-footer#tool-qr)**
 
 * Upload a logo
 * Paste a URL, phone, or email
